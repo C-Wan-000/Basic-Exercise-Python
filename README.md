@@ -1,2 +1,2 @@
-# Basic-Exercise---Python
+# Basic-Exercise/Python
 Some basic exercise.
