@@ -45,3 +45,4 @@ elif me==str(2) :
         print("This is a draw.")
 else :
     print("Your input is incorrect and the program exits.")
+^_^C_w
